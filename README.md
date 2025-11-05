@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 - 💡 Passionate about building **real-world problem-solving applications**
-- 📚 Currently learning **Flutter, Java, and System Design**
+- 📚 Currently learning **Flutter, and System Design**
 - 🚀 Working on **Himpawid**,  The Urban Environmental Intelligence Platform
 - 🎯 Goal: Become a **Full-Stack Developer**
 
