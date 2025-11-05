@@ -44,12 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alr3n&layout=compact&theme=radical" height="165">
 </p>
 
----
-
-### ☕ Support My Work
-If you like my work, consider supporting me:
-
-<p><a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge" /></a></p>
 
 ---
 
