@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 - 💡 Passionate about building **real-world problem-solving applications**
 - 📚 Currently learning **Flutter, and System Design**
-- 🚀 Working on **Himpawid**,  The Urban Environmental Intelligence Platform
+- 🚀 Working on **Himpawid**, The Urban Environmental Intelligence Platform
 - 🎯 Goal: Become a **Full-Stack Developer**
 
 ---
@@ -39,11 +39,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alr3n&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alr3n&layout=compact&theme=radical" height="165">
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alr3n&show_icons=true&theme=radical&cache_seconds=1800&rank_icon=github&include_all_commits=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alr3n&layout=compact&theme=radical&cache_seconds=1800&langs_count=6" height="165">
+</p>
 
 ---
 
