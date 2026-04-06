@@ -41,8 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alr3n&show_icons=true&theme=radical&cache_seconds=1800&rank_icon=github&include_all_commits=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alr3n&layout=compact&theme=radical&cache_seconds=1800&langs_count=6" height="165">
+  <img src="https://streak-stats.demolab.com?user=alr3n&theme=radical&hide_border=false" height="165">
 </p>
 
 ---
