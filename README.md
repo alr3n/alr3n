@@ -11,8 +11,8 @@
 
 ### 🧑‍💻 About Me
 - 💡 Passionate about building **real-world problem-solving applications**
-- 📚 Currently learning **Flutter, and System Design**
-- 🚀 Working on **Himpawid**, The Urban Environmental Intelligence Platform
+- 📚 Currently learning **Machine Learning**
+- 🚀 Working on **Flores**, Flood Level Observation and Responsive Early-Warning System
 - 🎯 Goal: Become a **Full-Stack Developer**
 
 ---
@@ -21,8 +21,15 @@
 
 #### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-5B3FD1?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-5B3FD1?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Web / Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -47,6 +54,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alr3n&theme=radical" height="165">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alr3n&theme=radical" height="165">
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alr3n&theme=radical" height="165">
+</p>
+
 ---
 
 ### 🌐 Connect With Me
