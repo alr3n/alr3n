@@ -41,9 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alr3n&theme=radical&hide_border=false" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alr3n&theme=radical" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alr3n&theme=radical" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alr3n&theme=radical" height="165">
+</p>
 ---
 
 ### 🌐 Connect With Me
