@@ -52,9 +52,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alr3n&theme=radical" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alr3n&theme=radical" width="32%">
-  <img src="https://streak-stats.demolab.com?user=alr3n&theme=radical" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alr3n&theme=radical" width="32%" height="210">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alr3n&theme=radical" width="32%" height="210">
+  <img src="https://streak-stats.demolab.com?user=alr3n&theme=radical" width="32%" height="210">
 </p>
 
 ---
