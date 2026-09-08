@@ -61,6 +61,6 @@
 ---
 
 ### Connect With Me
-Email: **alrendavegramponworkmail@gmail.com**  
-Location: **Calapan, Oriental Mindoro, PH**
-Portfolio: **https://alr3n.alr3n.workers.dev/**
+Email: alrendavegramponworkmail@gmail.com
+Portfolio: https://alr3n.alr3n.workers.dev/
+Location: Calapan, Oriental Mindoro, PH
