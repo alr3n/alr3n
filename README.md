@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Alren</h1>
+<h1 align="center">Hi, I'm Alren</h1>
 <h3 align="center">Aspiring Software Engineer | Mobile & Web Developer</h3>
 
 <!-- Profile Views -->
@@ -9,15 +9,15 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 💡 Passionate about building **real-world problem-solving applications**
-- 📚 Currently learning **Machine Learning**
-- 🚀 Working on **Flores**, Flood Level Observation and Responsive Early-Warning System
-- 🎯 Goal: Become a **Full-Stack Developer**
+### About Me
+- Passionate about building **real-world problem-solving applications**
+- Currently learning **Machine Learning**
+- Working on **Flores**, Flood Level Observation and Responsive Early-Warning System
+- Goal: Become a **Full-Stack Developer**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alr3n&theme=radical" width="100%">
@@ -60,6 +60,7 @@
 
 ---
 
-### 🌐 Connect With Me
-📩 Email: **alrendavegramponworkmail@gmail.com**  
-📍 Location: **Calapan, Oriental Mindoro, PH**
+### Connect With Me
+Email: **alrendavegramponworkmail@gmail.com**  
+Location: **Calapan, Oriental Mindoro, PH**
+Portfolio: **https://alr3n.alr3n.workers.dev/**
